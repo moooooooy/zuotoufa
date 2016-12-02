@@ -1,3 +1,4 @@
+
 document.writeln("<script type=\"text/javascript\"> ");
 document.writeln("/*120*270£¬´´½¨ÓÚ2013-6-3*/");
 document.writeln("var cpro_id = \"u1296823\";");
