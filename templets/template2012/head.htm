@@ -1,0 +1,53 @@
+  <div id="header">
+    <div id="headerLogo">
+			<h1 id="logo">
+			<a href="http://www.zuotoufa.com"><img src="{dede:global.cfg_templets_skin/}/images_new/logo.gif" alt="logo" title="做头发" /><span>做头发</span></a>
+			</h1>
+			<div id="hb_tool">
+				<p>
+					<span style="background-image:none;"><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.zuotoufa.com/');">设为首页</a></span>
+					<span><a href="javascript:window.external.addFavorite('http://www.zuotoufa.com/','做头发');">加入收藏</a></span>
+				</p>
+	
+				<p style="width:90px"><span style="background-image:none;"><a href="http://www.zuotoufa.com/" style="color:#000000;text-decoration:none;">简体</a></span><span><a href="http://www.zuotoufa.com/" >繁體</a></span></p>
+			</div>
+	</div>
+    <div id="headerMain">
+			<div id="tips"><img src="{dede:global.cfg_templets_skin/}/images_new/hbslogan.gif" title="流行·发型·时尚·美丽 城市丽人的互动媒体！" alt="流行·发型·时尚·美丽 城市丽人的互动媒体！" /></div>
+			<div id="user_link">
+                  <dl><dt><a href="http://www.zuotoufa.com/"><img alt="" src="{dede:global.cfg_templets_skin/}/images_new/regular.gif"></a></dt>	<dd>
+
+                  <ul class="onlogin">	
+                  <li class="name"><a href="#">随便逛逛</a></li>	
+                  <li style="text-align:center;" class="account"><A HREF="http://widget.weibo.com/relationship/followlogin.php?uid=2644997891&refer=&language=zh_cn&rnd=1333356734619">官方微博</A>
+                  </li>	
+                  <li class="tidings"><a href="{dede:global.cfg_cmspath/}/member/login.php">登录</a>|<a href="{dede:global.cfg_cmspath/}/member/index_do.php?fmdo=user&dopost=regnew">注册</a></li>	
+                  </ul></dd></dl> 
+             </div>
+	</div>
+    <div id="headerNav">
+		<div id="nav" >
+			<p>
+				<span><a href="/" class="lindex" class="cIndex">首页</a></span>
+	 {dede:channel type='top' row='11'  currentstyle="<span><a target='_blank' href='~typelink~' ~rel~ class='cIndex'>~typename~</a></span>"}
+     <span><a target="_blank" href='[field:typeurl/]' [field:rel/] class="c[field:autoindex runphp='yes']@me=$GLOBALS['autoindex'];[/field:autoindex]">[field:typename/]</a></span>
+     {/dede:channel}
+			</p>
+		</div>
+		<a href="http://www.zuotoufa.com/" target="_blank" style="position:relative;left:-80px;top:-3px;z-index:899; float:left;" onmouseover="this.style.left='-78px';this.style.top='-1px'" onmouseout="this.style.left='-80px';this.style.top='-3px'"><img src="{dede:global.cfg_templets_skin/}/images_new/top-logo2.jpg" /></a>
+    		<div id="navTags"><p>
+			      {dede:tag row='13' getall='1' sort='month'}
+				  <span  class="tags"><a href="[field:link/]" target="_blank">[field:tag /]</a></span>
+				  {/dede:tag}			   
+			</p></div>
+			
+			<div id="navSearch" style="">
+				<form  name="formsearch" method="get" action="{dede:global.cfg_cmspath/}/plus/search.php" target="_blank"><p>
+                      <input type="hidden" name="kwtype" value="0" />
+                      <input type="hidden" name="searchtype" value="titlekeyword" />
+                      <input name="q" type="text" class="search-keyword" id="search-keyword" style="width:139px;height:16px;border:1px solid #cfcfcf;line-height:16px;fint-size:12px;float:left;" value="在这里搜索..." onfocus="if(this.value=='在这里搜索...'){this.value='';}"  onblur="if(this.value==''){this.value='在这里搜索...';}" />
+                    <input type="submit"  name="sa" value="搜索" class="search-submit" />
+				</p></form>
+			</div>
+	</div><!--headNav end-->
+  </div>

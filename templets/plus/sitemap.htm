@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>{dede:global name='cfg_webname'/}_网站地图</title>
+<link href="{dede:global name='cfg_templets_skin'/}/style/default.css" rel="stylesheet" type="text/css" media="screen" />
+<style>
+/* 全局样式 */
+/* common*/
+.wrapper { clear: both; width:950px;margin:0 auto;}
+.clear { clear: both; overflow: hidden; height:0px; font-size:0px; }
+.col-l,
+.col-m{ float:left;display:inline;  }
+.col-r{ float:right; display:inline; }
+.flt{ float:left; display:inline; }
+.flr{ float:right; display:inline; }
+.LineSpacing10 { clear: both; height: 10px; overflow: hidden;}
+.clear{clear:both; overflow:hidden;height: 0; font-size:0;}
+.ahand{ cursor:pointer;}
+.fs14{ font-size:14px;}
+.first2{ text-indent:2em;}
+.fb{ font-weight:bold;}
+.line{ background:#efefef;height: 1px; overflow:hidden;  }
+/* link */
+a{ text-decoration:none; color:#333333;}
+a:hover{ text-decoration:none;color:#ff0000;}
+.imgbk{ overflow:hidden; zoom:1;}
+.imgbk li{ float:left;}
+.imgbk img{display:block; padding:2px;border:1px solid #D7D7D7; width: 90px; height: 120px; }
+.imgbk p{display:block;text-align:center;padding:3px 0 0; }
+.topbk{ height:36 px;width: 950px; margin:5px auto; overflow:hidden; zoom:1;   }
+.topbk .subr{ float:right; padding:8px 0 0 0;  }
+.subr li{ float:left;  }
+margin: 0 5px 0 0; }
+
+/* sitemap */
+.cg6{ color:#666;}
+.cg6 a{ color:#666; text-decoration:none;}
+.cg6 a:link {color:#666 ;text-decoration:none}
+.cg6 a:visited {color:#666;text-decoration:none}
+.cg6 a:hover {color: #000; text-decoration:none}
+.cg6 a:active {color: #666; text-decoration: none}
+.cg3{ color:#333;}
+.cg3 a{ color:#333; text-decoration:none;}
+.cg3 a:link {color:#333 ;text-decoration:none}
+.cg3 a:visited {color:#333;text-decoration:none}
+.cg3 a:hover {color: #fc0606; text-decoration:none}
+.cg3 a:active {color: #333; text-decoration: none}
+.m_warv{  width:950px; margin:0 auto; padding:0;overflow:hidden;}
+.clear{ clear:both;}
+.m_w950{ width:950px; height:auto; float:left; padding:0; margin:0;}
+.mtit_box{ width: 940px; height:34px; padding-right:10px; margin:0; background:url(http://fj.sinaimg.cn/fj_2010_v1/sitemap/img/tit_bg.jpg) no-repeat; float:left;}
+.sfl{ width:150px; height:34px; line-height:34px; text-align:center; font-size:16px; font-weight:bold; color:#fff; float:left;}
+.sfr{ width:180px; height:34px; line-height:34px; text-align:right; font-size:12px;color:#666; float:right;}
+.m_2b{width:948px; height:auto; float:left; padding:0; margin:0; border:1px #ccc solid; border-top:none;}
+.w85{ width:85px; height:auto; float:left;}
+.w85 h3{ line-height:58px; text-align:center; font-size:14px;}
+.mt40{ margin-top:40px;}
+.mt160{ margin-top:160px;}
+.mt70{ margin-top:70px;}
+.w862{ width:862px; height:auto; border-left:1px #ccc solid; float:left;overflow:hidden;}
+.p20{ width:862px; height:auto;  padding:20px 0; float:left;}
+.lh20{ line-height:22px;}
+.w862 p{ padding:7px 0; color:#333;float:left;}
+.meu_l{ width:92px; height:22px; padding-left:14px; padding-right:10px; margin-right:5px; display:inline; text-align:center; background:url(http://www.zuotoufa.com/images/menu_bg_sch.gif) no-repeat; float:left;}
+.meu_list{ width:660px; height:auto;text-align:left; padding:0 10px; overflow:hidden; float:left;}
+.meu_b{ width:802px; height:30px; line-height:30px; border-top:1px solid #ccc; text-align:left; float:left; font-weight:bold; padding:0 30px; margin:0;}
+</style>
+
+</head>
+<body>
+<div id="container">
+{dede:include filename="head.htm"/}
+
+<div class="m_warv">
+	<div class="clear"></div>
+	<div class="m_w950">
+		<div class="mtit_box">
+			<div class="sfl">
+				导&nbsp;&nbsp;航
+			</div>
+			<div class="sfr cg6">
+				当前位置：<a href="{dede:global name='cfg_basehost'/}" target="_blank">首页</a> &gt; <a href="{dede:global name='cfg_basehost'/}/data/sitemap.html" target="_blank">网站地图</a>
+			</div>
+		</div>
+		<div class="m_2b">
+			<div class="w85">
+				<h3 class="mt40"><a href="http://city.sina.com.cn/" target="_blank">做&nbsp;头&nbsp;发</a></h3>
+			</div>
+			<div class="w862">
+				<div class="p20">
+	{dede:global name='maplist'/}
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+</div>
+
+<!-- //底部模板 -->
+<div class="footer w960 center mt1">
+    <div class="footer_left"></div>
+    <div class="footer_body">
+	<p class="powered">    
+		Powered by <a href="http://www.sunmao.cn" title="商茂网络科技" target="_blank"><strong>SUNMAO.CN</strong></a> &copy; 2002-2012 <a href="http://www.sunmao.cn/" title="商茂网络科技"  target="_blank">SunMao Sci.&Tech.</a> Co.,Ltd<br /></p>
+        <div class="copyright">{dede:global name='cfg_powerby'/}&nbsp;&nbsp;{dede:global name='cfg_beian'/}</div><p></p>        
+<!-- /powered -->
+   </div>
+   <div class="footer_right"></div>
+</div>
+ 
+</div>
+</body>
+</html>

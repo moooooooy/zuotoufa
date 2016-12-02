@@ -1,0 +1,682 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+<title>{dede:global.cfg_webname/}_流行_发型_美丽_时尚</title>
+<meta name="description" content="{dede:global.cfg_description/}" />
+<meta name="keywords" content="{dede:global.cfg_keywords/}" />
+<base target="_blank" />
+<link href="./image/favicon.ico" rel="shortcut icon"  type="image/x-icon" />
+<link rel="icon" href="./image/favicon.ico" />
+
+<link href="{dede:global.cfg_templets_skin/}/style/default.css" rel="stylesheet" media="screen" type="text/css" />
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_cmspath/}/images/js/j.js" ></script>
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_templets_skin/}/js/pic_scroll.js"></script>
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_templets_skin/}/js/base.js"></script>
+
+</head>
+<body>
+<div id="container">
+  <div id="header">
+    <div id="headerLogo">
+			<h1 id="logo">
+			<a href="http://www.zuotoufa.com"><img src="{dede:global.cfg_templets_skin/}/images_new/logo.gif" alt="logo" title="做头发" /><span>做头发</span></a>
+			</h1>
+			<div id="hb_tool">
+				<p>
+					<span style="background-image:none;"><a href="#" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.zuotoufa.com/');">设为首页</a></span>
+					<span><a href="javascript:window.external.addFavorite('http://www.zuotoufa.com/','做头发');">加入收藏</a></span>
+				</p>
+	
+				<p style="width:90px"><span style="background-image:none;"><a href="http://www.zuotoufa.com/" style="color:#000000;text-decoration:none;">简体</a></span><span><a href="http://tw.zuotoufa.com/" >繁體</a></span></p>
+			</div>
+	</div>
+    <div id="headerMain">
+			<div id="tips"><img src="http://mt0.haibao.cn/image/hb/hbslogan.gif" title="时尚·快乐·新鲜·自我 CityGirl的互动媒体！" alt="时尚·快乐·新鲜·自我 CityGirl的互动媒体！" /></div>
+			<div id="user_link"></div>
+	</div>
+    <div id="headerNav">
+		<div id="nav" >
+			<p>
+				<span><a href="#" class="lindex" style="background:none repeat scroll 0 0 #FF3399;color:#FFFFFF;font-weight:bold;
+text-decoration:none;">首页</a></span>
+	 {dede:channel type='top' row='11' }
+     <span><a target="_blank" href='[field:typeurl/]' [field:rel/] class="c[field:id/]">[field:typename/]</a></span>
+     {/dede:channel}
+			</p>
+		</div>
+		<a href="http://www.zuotoufa.com/fashion/%E6%97%B6%E8%A3%85%E5%91%A8/" target="_blank" style="position:relative;left:-80px;top:-3px;z-index:899; float:left;" onmouseover="this.style.left='-78px';this.style.top='-1px'" onmouseout="this.style.left='-80px';this.style.top='-3px'"><img src="http://www.haibao.cn/image/shi_img2.jpg" /></a>
+    		<div id="navTags"><p>
+			      {dede:tag row='13' getall='1' sort='month'}
+				  <span  class="tags"><a href="[field:link/]" target="_blank">[field:tag /]</a></span>
+				  {/dede:tag}			   
+	 		
+			</p></div>
+			
+			<div id="navSearch" style="">
+				<form method="get" action="/search/" target="_blank"><p>
+					<input type="hidden" name="cx" value="011478902930208315939:3oepsttw3j4"  /><input type="hidden" name="cof" value="FORID:9" /><input type="hidden" name="ie" value="UTF-8" />
+					<input type="text" name="q" id="hbs_v" class="in_xgd" style="width:139px;height:16px;border:1px solid #cfcfcf;line-height:16px;fint-size:12px;float:left;" /><input type="submit"  name="sa" value="搜索" style="border-style:none;width:40px;height:21px;background:url(http://www.haibao.cn/image/x/xxx_xgd.gif) no-repeat scroll 0 0 transparent; margin-left:5px;line-height:21px; font-size:12px;color:#fff;float:left;" />
+				</p></form>
+			</div>
+	</div><!--headNav end-->
+  </div>
+  <div id="main"><!--main begin-->
+	  <div id="pic_news">
+		<div id="MainPromotionBanner">
+			<div id="Slidesx">
+				<div id="SlidePlayer">
+				<ul>
+				<li><a target="_blank" href="http://www.haibao.cn/article/191689.htm" title=""><span><h1>Louis Vuitton悉尼旗舰店开幕：女明星同穿LV来捧场</h1></span><img src="http://mt0.haibao.cn/store/portal/ddd111___.jpg" alt="" /></a></li>
+				
+				<li><a target="_blank" href="http://www.haibao.cn/article/191690.htm" title=""><span><h1>博柏利(Burberry)巴黎精品店开幕式红毯Look合辑</h1></span><img src="http://mt0.haibao.cn/store/portal/ddd222.jpg" alt="" /></a></li>
+				
+				<li><a target="_blank" href="http://www.haibao.cn/article/191703.htm" title=""><span><h1>明星造型PK台：“甜笑辣妈”芭姐对阵“粉红美妞”阿曼达</h1></span><img src="http://mt0.haibao.cn/store/portal/ddd333.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/beauty/" title=""><span><h1>非“糖果控”也爱的糖果色！甜蜜的YSL春夏彩妆</h1></span><img src="http://mt0.haibao.cn/store/portal/ysldd.png" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/article/191679.htm" title=""><span><h1>奢华海洋风情！Alexander McQueen 2012春夏配饰</h1></span><img src="http://mt0.haibao.cn/store/portal/mcqueenslide__.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/health/" title=""><span><h1>7个精明护眼之道，让你眼睛电力十足+健康有神！</h1></span><img src="http://mt0.haibao.cn/store/portal/eyes12042.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/article/191686.htm" title=""><span><h1>3D层次混搭术！Pringle of Scotland 2012早秋女装</h1></span><img src="http://mt0.haibao.cn/store/portal/pringleslide.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/diy/" title=""><span><h1>跟随摄影师Douglas的镜头参观名人之家！</h1></span><img src="http://mt0.haibao.cn/store/portal/2341321252826.png" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/article/191711.htm" title=""><span><h1>摩纳哥公主变身爆炸头骑士，马术比赛展现精湛骑术</h1></span><img src="http://mt0.haibao.cn/store/portal/ddd111____.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/article/191712.htm" title=""><span><h1>换样单品就变身？It Girl艾里珊·钟两种风格巧搭配 </h1></span><img src="http://mt0.haibao.cn/store/portal/huande3tfge3.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/sexlove/" title=""><span><h1>第一次约会的25个Dos &amp; Don&#39;ts，让首次触电更完美！</h1></span><img src="http://mt0.haibao.cn/store/portal/Firstdate1204.jpg" alt="" /></a></li><li><a target="_blank" href="http://www.haibao.cn/article/191693.htm" title=""><span><h1>哪位帅哥最吸睛？2011冬季欧美型男街拍第一辑 </h1></span><img src="http://mt0.haibao.cn/store/portal/boys.jpg" alt="" /></a></li></ul>						
+				</div>
+				<div id="pagxxx"></div>
+			</div>
+		</div>
+	  </div>
+
+
+	   <DIV id=channel_news>
+	   	 <H2>频道精选</H2>
+         <DIV id=cn_>
+	    {dede:channelartlist row=10}
+			<DIV id=cn_class_{dede:field name='id'/} class=cn>
+			<H3>{dede:field name='typename'/}</H3>
+			<DIV>
+			<UL><!--flag='c'-->
+			  {dede:arclist  row='1' flag='h,p'}
+					
+					<LI class=cnt>
+					  <H4><A class=tipstitle href="[field:arcurl /]" 
+					  target=_blank>[field:title function="mytest(0,@me)"/] </A></H4>
+					  <SPAN><A 
+					  href="[field:arcurl /]" target=_blank><IMG 
+					  src="[field:litpic /]" alt="" width="90" height="80" /></A></SPAN> 
+					  <P class=tipstitle>[field:description /] 各类“美丽关键词”红毯大战，拼的就是气场各类“美丽关键词”红毯大战，拼的就是气场</P>
+					  </LI>
+			  {/dede:arclist}
+
+			  {dede:arclist  row='2' flag='h'}
+			      <LI>
+				  <H4><SPAN class=sort><A href="[field:typeurl /]" 
+				  target=_blank>[[field:typename /]]</A></SPAN><A class=tipstitle   href="[field:arcurl /]" target=_blank>[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</A></H4>
+				  </LI>
+			  {/dede:arclist}
+			</UL>
+			</DIV>
+		    </DIV>
+		{/dede:channelartlist}
+
+			</DIV>
+	   </DIV>
+	  <!-- channel_news = end -->
+	   
+	  <div id="interact_art"><h2><a target="_blank" href="#">特别推荐</a></h2><div id="ia_">
+				<div id="ia_list"><ul>
+				<!-- class="cc"-->
+					  {dede:arclist flag='c' titlelen=42 row='9' tagid='dedecms' pagesize='8'}
+					   <li class="[field:autoindex runphp='yes']if(fmod($GLOBALS['autoindex'],2) == 0)@me='';else @me='cc';[/field:autoindex]"><h4><span><a class="tipstitle" target="_blank" href="/article/191703.htm" >
+					  [field:autoindex runphp='yes']@me=$GLOBALS['autoindex'];[/field:autoindex].[field:title/]各类“美丽关键词”红毯大战，拼的就是气场！众好莱坞女明星精心打扮亮相第18届Elle年度女</a>
+
+					           </span></h4></li>
+					  {/dede:arclist}
+
+					</ul></div>
+				<p id="ia_options"><span class="more"><a target="_blank" href="/#/">更多</a></span></p>
+			</div></div>
+	  
+	  <!--scroll img-->
+	    <div class="picnews">
+		   <dl class="tbox light">
+			<dt class='light'><strong>图文资讯</strong></dt>
+			<dd class='light'>
+			 <div class="infiniteCarousel">
+			  <div class="wrapper">
+			   <ul id='imgscroll'>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>
+        <li><a href="/a/faxing/20111001/1.html"><img src='http://www.zuotoufa.com/uploads/allimg/111001/222PUK7-0-lp.jpg' border='0'  alt='5分钟 拖沓中长发焕发神采(组图)' /><span class="title">5分钟 拖沓中长发焕发神采</span></a></li>												
+			   </ul>
+			  </div>
+			 </div>
+			</dd>
+		   </dl>
+		  </div>
+	  
+	  <div id="mainContents" class="js">
+<!--1-->
+			<div id="c_jewelry" class="csb"><h2><a href="/JewelryWatch/" target="_blank">发型设计 <span> 发型 &amp; 设计</span></a></h2><div id="jy_" class="csb_">
+				<p class="tip">奢华永恒隽秀</p><!-- 简短介绍{dede:field name='id'/} -->
+					<div id="jy_new" class="csb_new"><h3 class="on"><span>最新文章</span></h3><div id="jyn_" class="csbn_">
+						<div id="jyn_list" class="csbn_list">
+						<ul>
+							{dede:arclist typeid='1'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}
+						</ul></div>
+					</div></div>
+
+					<div id="jy_hot" class="csb_hot"><h3><span>最热文章</span></h3><div id="jyh_" class="csbh_">
+						<div id="jyh_list" class="csbh_list"><ul>
+						    {dede:arclist typeid='1'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}
+						
+						</ul></div>
+					</div></div>
+					<div id="jy_tag" class="csb_tag"><h3><span>热门标签</span></h3><div id="jyt_" class="csbt_">
+						<p>
+						  {dede:tag row='30' getall='0' sort='all'  typeid='1'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}			
+							<br />
+						</p>
+					</div></div>
+			  </div></div><!-- c_发型设计 = end -->
+<!--2-->
+			<div id="c_wedding" class="csb"><h2><a href="/wedding/" target="_blank">流行趋势 <span> Your Wedding Guide</span></a></h2>
+			  <div id="wed_" class="csb_">
+				<p class="tip">我们的梦想，完美的新娘</p>
+				<div id="wed_new" class="csb_new"><h3 class="on"><span>最新文章</span></h3><div id="wedn_" class="csbn_">
+					<div id="wedn_list" class="csbn_list"><ul>
+							{dede:arclist typeid='2'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}
+					
+					</ul></div>
+				</div></div>
+				<div id="wed_hot" class="csb_hot"><h3><span>最热文章</span></h3><div id="wedh_" class="csbh_">
+					<div id="wedh_list" class="csbh_list"><ul>
+						    {dede:arclist typeid='2'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}
+					
+					</ul></div>
+				</div></div>
+				<div id="wed_tag" class="csb_tag"><h3><span>热门标签</span></h3><div id="wedt_" class="csbt_">
+					<p>
+						  {dede:tag row='30' getall='0' sort='all'  typeid='2'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+					</p>
+				</div></div>
+			</div></div><!-- c_流行趋势 = end -->				
+
+<!--3-->
+		<DIV id=c_fashion class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/fashion/" target=_blank>服饰风尚 <SPAN>Fashion
+						&amp; Style</SPAN>
+				</A>
+			</H2>
+			<DIV id=cf_ class=csb_>
+				<P class=tip>
+					最新最IN的服饰搭配...
+				</P>
+				<DIV id=cf_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=cfn_ class=csbn_>
+						<DIV id=cfn_list class=csbn_list>
+						<ul>
+						    {dede:arclist typeid='3'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}
+					     </ul>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cf_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=cfh_ class=csbh_>
+						<DIV id=cfh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='1'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cf_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cft_ class=csbt_>
+						<P>
+						  {dede:tag row='30' getall='0' sort='all'  typeid='1'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}			
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_fashion = end -->
+<!--4-->		
+		<DIV id=c_beauty class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/beauty/" target=_blank>美丽达人 <SPAN>Beauty
+						&amp; Cosmetics</SPAN>
+				</A>
+			</H2>
+			<DIV id=cb_ class=csb_>
+				<P class=tip>
+					我们都是美丽的人！
+				</P>
+				<DIV id=cb_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=cbn_ class=csbn_>
+						<DIV id=cbn_list class=csbn_list>
+							<UL>
+							 {dede:arclist typeid='4'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cb_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=cbh_ class=csbh_>
+						<DIV id=cbh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='4'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cb_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cbt_ class=csbt_>
+						<P>{dede:tag row='30' getall='0' sort='all'  typeid='4'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br /></P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_beauty = end -->
+<!--5-->		
+		<DIV id=c_diy class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/diy/" target=_blank>diy·生活 <SPAN>Life,
+						Do It Yourself</SPAN>
+				</A>
+			</H2>
+			<DIV id=cd_ class=csb_>
+				<P class=tip>
+					生活就是如此适意...
+				</P>
+				<DIV id=cd_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=cdn_ class=csbn_>
+						<DIV id=cdn_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='5'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cd_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=cdh_ class=csbh_>
+						<DIV id=cdh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='5'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cd_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cdt_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='5'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_diy = end -->
+<!--6-->		
+		<DIV id=c_health class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/health/" target=_blank>运动健康 <SPAN>Diet
+						&amp; Fitness</SPAN>
+				</A>
+			</H2>
+			<DIV id=ch_ class=csb_>
+				<P class=tip>
+					我爱美食，还要做健康瘦美人！
+				</P>
+				<DIV id=ch_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=chn_ class=csbn_>
+						<DIV id=chn_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='6'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=ch_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=chh_ class=csbh_>
+						<DIV id=chh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='6'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=ch_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cht_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='6'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_health = end -->
+<!--7-->		
+		<DIV id=c_astro class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/astro/" target=_blank>心理·星座 <SPAN>Heart
+						&amp; Astro</SPAN>
+				</A>
+			</H2>
+			<DIV id=ca_ class=csb_>
+				<P class=tip>
+					轻松心灵、星座解析、自测性格...
+				</P>
+				<DIV id=ca_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=can_ class=csbn_>
+						<DIV id=can_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='7'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=ca_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=cah_ class=csbh_>
+						<DIV id=cah_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='7'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=ca_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cat_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='7'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_astro = end -->
+<!--8-->		
+		<DIV id=c_sexlove class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/sexlove/" target=_blank>Sex&amp;Love
+					<SPAN></SPAN>
+				</A>
+			</H2>
+			<DIV id=cs_ class=csb_>
+				<P class=tip>
+					爱情是糖，Sex是做糖 o∩_∩o
+				</P>
+				<DIV id=cs_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=csn_ class=csbn_>
+						<DIV id=csn_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='8'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cs_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=csh_ class=csbh_>
+						<DIV id=csh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='8'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cs_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cst_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='8'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_sexlove = end -->
+<!--9-->		
+		<DIV id=c_brands class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/brands/" target=_blank>时尚品牌 <SPAN>Brand
+						You Love</SPAN>
+				</A>
+			</H2>
+			<DIV id=cbr_ class=csb_>
+				<P class=tip>
+					我的品牌没有最好，只有最爱！
+				</P>
+				<DIV id=cbr_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=cbrn_ class=csbn_>
+						<DIV id=cbrn_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='9'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cbr_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=cbrh_ class=csbh_>
+						<DIV id=cbrh_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='9'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cbr_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cbrt_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='9'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_brands = end -->
+<!--10-->		
+		<DIV id=c_stars class=csb>
+			<H2>
+				<A href="http://www.haibao.cn/stars/" target=_blank>娇点明星 <SPAN>Just
+						Your Star</SPAN>
+				</A>
+			</H2>
+			<DIV id=csta_ class=csb_>
+				<P class=tip>
+					只有关注，才有明星★
+				</P>
+				<DIV id=cst_new class=csb_new>
+					<H3 class=on>
+						<SPAN>最新文章</SPAN>
+					</H3>
+					<DIV id=cstn_ class=csbn_>
+						<DIV id=cstn_list class=csbn_list>
+							<UL>
+							{dede:arclist typeid='10'  row='10' orderby='near'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+							 {/dede:arclist}	
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cst_hot class=csb_hot>
+					<H3>
+						<SPAN>最热文章</SPAN>
+					</H3>
+					<DIV id=csth_ class=csbh_>
+						<DIV id=csth_list class=csbh_list>
+							<UL>
+							{dede:arclist typeid='10'  row='10' orderby='hot'}
+							<li><h4><span class="tag"><a href="[field:typeurl /]" target="_blank">[[field:typename /]]</a></span> <strong><a href="[field:arcurl /]" class="tipstitle" target="_blank">[field:title /]各类“美丽关键词”红毯大战，拼的就是气场</a></strong></h4></li>
+						    {/dede:arclist}		
+							</UL>
+						</DIV>
+					</DIV>
+				</DIV>
+				<DIV id=cst_tag class=csb_tag>
+					<H3>
+						<SPAN>热门标签</SPAN>
+					</H3>
+					<DIV id=cstt_ class=csbt_>
+						<P>
+						{dede:tag row='30' getall='0' sort='all'  typeid='10'}
+						  <span><a class="topic_a" href="[field:link/]" target="_blank">[field:tag /]</a></span> 
+						  {/dede:tag}	
+							<br />
+						</P>
+					</DIV>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- c_stars = end -->
+	  </div><!--mainContents-->
+	  
+  </div><!--main end-->
+  
+  <div id="footer">
+		  <div class="flink w960 center clear">
+			 <dl class="tbox">
+			  <dt> <strong>友情链接</strong>
+				<span class="linklabel">
+					{dede:flinktype type="dedecms"}
+						<a href="#" _for="flink_[field:id/]">[field:typename/]</a> 
+					{/dede:flinktype}
+				</span>
+				<span class="more"> <a href="plus/flink.php">所有链接</a> | <a href="plus/flink_add.php">申请加入</a> </span> </dt>
+			  {dede:flinktype type="dedecms"}
+			  <dd id="flink_[field:id/]">
+				<ul class="f5">
+					{dede:flink/}
+				</ul>
+			  </dd>
+			  {/dede:flinktype}
+			 </dl>
+		  </div>
+			<!-- /flink -->
+			{dede:include filename="footer.htm"/}
+			<!-- /footer -->
+  </div>
+</div>
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_templets_skin/}/js/focusimg.js"></script>
+<script language="javascript" type="text/javascript" src="{dede:global.cfg_templets_skin/}/js/onload.js"></script>
+</body>
+</html>

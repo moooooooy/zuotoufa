@@ -1,0 +1,1 @@
+document.writeln("<script type=\"text/javascript\">/*960*60£¬´´½¨ÓÚ2012-6-11*/ var cpro_id = \'u936855\';</script><script src=\"http://cpro.baidu.com/cpro/ui/c.js\" type=\"text/javascript\"></script>");
